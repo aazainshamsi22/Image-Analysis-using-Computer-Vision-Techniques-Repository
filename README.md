@@ -1,5 +1,7 @@
 # Image-Analysis-using-Computer-Vision-Techniques-Repository
 
+![img1](https://github.com/aazainshamsi22/Image-Analysis-using-Computer-Vision-Techniques-Repository/assets/116846490/1d00da4c-f395-4d58-879a-ba3a97ab7ed7)
+
 ## Getting Started 🏁  
 To run this project on your local machine, you need to have Python 3.8 or higher installed. Follow the steps below to get started:  
 ## Detailed Explaination
