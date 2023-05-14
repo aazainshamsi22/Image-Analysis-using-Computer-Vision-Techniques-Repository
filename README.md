@@ -1,4 +1,4 @@
-# Image-Analysis-using-Computer-Vision-Techniques-Repository
+# Image-Analysis-using-Computer-Vision-Techniques
 
 ![img1](https://github.com/aazainshamsi22/Image-Analysis-using-Computer-Vision-Techniques-Repository/assets/116846490/1d00da4c-f395-4d58-879a-ba3a97ab7ed7)
 
